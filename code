@@ -7,9 +7,9 @@ from datetime import datetime
 # MySQL Config (Replace with your password)
 DB_CONFIG = {
     "host": "localhost",
-    "user": "root",
-    "password": "@Sub123odh456",
-    "database": "attendance_system"
+    "user": "username",
+    "password": "password",
+    "database": "database name"
 }
 
 # Create Database and Table if not exists
